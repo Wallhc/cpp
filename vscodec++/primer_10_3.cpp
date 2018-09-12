@@ -1,7 +1,7 @@
 //用accumulate求一个vector<int>中的元素之和
 #include<iostream>
 #include<vector>
-#include<numeric>
+#include<numeric>   
 using namespace std;
 int main()
 {

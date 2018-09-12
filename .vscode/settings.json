@@ -3,6 +3,7 @@
         "xstring": "cpp",
         "list": "cpp",
         "xiosbase": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "vector": "cpp"
     }
 }
